@@ -1,0 +1,33 @@
+.values-section{
+    border: 1px solid yellowgreen;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.values-section h2{
+    font-family: 'Conv_Now-Bold';
+    color: #242f6c;
+
+    font-size: 3.75em;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 1.1333em;
+    text-decoration: none;
+    text-transform: none;
+    letter-spacing: 0px;
+    margin-bottom: 10px;
+}
+
+.values-section p{
+    font-family: 'Conv_Now-Bold';
+    color: #777777;
+    -webkit-font-smoothing: antialiased;
+    margin-top: 0;
+
+    font-family: "PT Sans",sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.625em;
+}

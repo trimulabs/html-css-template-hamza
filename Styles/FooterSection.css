@@ -1,0 +1,66 @@
+.footer-section{
+    margin-top: 20px;
+    border: 1px solid blue;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 250px;
+    margin-left: 250px;
+}
+.footer-section h4{
+    font-family: 'Conv_Now-Bold';
+    -webkit-font-smoothing: antialiased;
+    font-size: 1.25em;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 1.3em;
+    text-decoration: none;
+    text-transform: none;
+    letter-spacing: 0px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.footer-section .para{
+    margin-top: 6px;
+    margin-bottom: 0;
+    text-align: center;
+
+    font-family: 'Conv_Now-Bold';
+    color: #777777;
+    -webkit-font-smoothing: antialiased;
+    margin-top: 0;
+
+    font-size: 15px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.625em;
+}
+
+.footer-section .para-icon{
+    border: 1px solid rebeccapurple;
+    margin-top: 10px;
+    text-align: center;
+    margin-bottom: 8px;
+
+}
+
+.icon-2{
+    font-size: 56px;
+    color: #00ded8;
+}
+
+@media (max-width: 1000px) {
+    .footer-section{
+        margin-top: 20px;
+        margin-right: 100px;
+        margin-left: 100px;
+    }
+}
+
+@media (max-width: 650px) {
+    .footer-section{
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+}
