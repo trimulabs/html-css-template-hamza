@@ -14,15 +14,15 @@ body {
     padding-bottom: 20px;
     margin-left: 250px;
     margin-right: 250px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 
 img.logo-image {
-    border: 1px solid black;
+    /* border: 1px solid black; */
     height: 40;
 }
 .btn-div{
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 .contact-btn{
     color: #fff;

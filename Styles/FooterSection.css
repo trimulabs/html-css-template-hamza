@@ -1,6 +1,6 @@
 .footer-section{
     margin-top: 20px;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -38,7 +38,7 @@
 }
 
 .footer-section .para-icon{
-    border: 1px solid rebeccapurple;
+    /* border: 1px solid rebeccapurple; */
     margin-top: 10px;
     text-align: center;
     margin-bottom: 8px;

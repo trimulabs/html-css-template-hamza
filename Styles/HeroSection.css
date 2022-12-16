@@ -13,13 +13,13 @@
     100% { transform:translateY(0) translateX(0); }
 }
 .hero-section{
-    border: 10px solid red;
+    /* border: 10px solid red; */
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
     
-    border: 1px solid yellow;
+    /* border: 1px solid yellow; */
     background-image: url("../Assets/hero_section_bg_img.png");
    
     background-repeat: no-repeat;
@@ -27,7 +27,7 @@
     height: 950px;
 }
 .bg2-div{
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     position: absolute;
     background: url("../Assets/hero_section_bg2.png");
     background-repeat: no-repeat;
@@ -38,13 +38,13 @@
     height: 336px;
 }
 .hero-section-text-div {
-    border: 1px solid black;
+    /* border: 1px solid black; */
     position: relative;
     padding-left: 250px;
     padding-right: 250px;
   }
  .hero-section-text-div span {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     display: inline-block;
     padding: 7px 20px 4px;
     background: #fff;
@@ -56,14 +56,14 @@
   }
 .hero-section-text-div .slide-title h2 {
     color: #062265;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     font-family: 'Conv_Now-Bold';
     font-size: 50px;
     margin: 0 0 0.45em;
     line-height: 80px;
 }
 .hero-section-text-div .slide-subtitle p {
-    border: 1px solid black;
+    /* border: 1px solid black; */
     color: #666666;
     color: #777777;
     line-height: 1.8em;
@@ -79,12 +79,12 @@
 @media (max-width: 1000px) {
 
     .hero-section{
-        border: 1px solid red;
+        /* border: 1px solid red; */
         height: 950px;
     }
     .hero-section-text-div .slide-title h2 {
         color: #062265;
-        border: 1px solid red;
+        /* border: 1px solid red; */
         font-family: 'Conv_Now-Bold';
         font-size: 40px;
         text-align: center;
@@ -121,7 +121,7 @@
     font-size: 44px;
 }
 .hero-section-text-div .slide-subtitle p {
-    border: 1px solid black;
+    /* border: 1px solid black; */
     color: #666666;
     line-height: 1.5em;
     font-size: 16px;
@@ -136,7 +136,7 @@
     height: 336px;
 }
 .imgAnimate{
-    border: 1px solid blueviolet;
+    /* border: 1px solid blueviolet; */
     position: absolute;
     top: 20%;
     right: 15px;
@@ -146,7 +146,7 @@
     animation: imgAnimate 3s linear infinite;
 }
 .hero-img{
-    border: 1px solid blueviolet;
+    /* border: 1px solid blueviolet; */
     height: 100%;
     width: 100%; 
     animation: imgAnimate 3s linear infinite;
@@ -156,7 +156,7 @@
 
 @media (max-width: 1600px) and (min-width: 1400px) {
     .imgAnimate{
-        border: 1px solid blueviolet;
+        /* border: 1px solid blueviolet; */
         position: absolute;
         top: 20%;
         right: 30px;
@@ -166,7 +166,7 @@
         animation: imgAnimate 3s linear infinite;
     }
     .hero-img{
-        border: 1px solid blueviolet;
+        /* border: 1px solid blueviolet; */
         height: 100%; 
         width: 100%;
         animation: imgAnimate 3s linear infinite;
@@ -175,7 +175,7 @@
 
 @media (max-width: 1900px) and (min-width: 1600px) {
     .imgAnimate{
-        border: 1px solid blueviolet;
+        /* border: 1px solid blueviolet; */
         position: absolute;
         top: 20%;
         right: 30px;
@@ -185,7 +185,7 @@
         animation: imgAnimate 3s linear infinite;
     }
     .hero-img{
-        border: 1px solid blueviolet;
+        /* border: 1px solid blueviolet; */
         height: 100%; 
         width: 100%;
         animation: imgAnimate 3s linear infinite;
